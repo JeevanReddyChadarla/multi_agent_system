@@ -1,0 +1,4 @@
+MODEL_OPENAI = "gpt-4o-mini"
+MODEL_OLLAMA = "llama3"
+
+MAX_DEBUG_ATTEMPTS = 3
